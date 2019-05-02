@@ -22,3 +22,5 @@ how to use ak47wbjacker
 
 
 contact me here : https://www.facebook.com/Encodedweapon
+
+# warning dont forget to turn on noscript in firefox
