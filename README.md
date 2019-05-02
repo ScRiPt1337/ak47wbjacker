@@ -4,7 +4,7 @@ how to use ak47wbjacker
 
 1.EDIT index.html with your phishing page
 
-2. add these lines of code anywhere u want
+2.remove #  and add these lines of code anywhere u want
 
 
 #<script>                                                                                                      
