@@ -11,7 +11,7 @@ how to use ak47wbjacker
 #var myTimer; myTimer = window.setInterval(reloadD,3000);                                                      
 #function reloadD(){ d = new Date(); document.getElementById('qrcodew').src="qrcode.png?h="+d.getTime();}      
 #</script>                                                                                                     
-# </b><img id="qrcodew" alt="Scan me!" src="qrcode.png" style="display: block;">                                
+#</b><img id="qrcodew" alt="Scan me!" src="qrcode.png" style="display: block;">                                
 
 
 3.run ak47
