@@ -21,6 +21,6 @@ how to use ak47wbjacker
 5.send link to vicitm
 
 
-contact me here : https://www.facebook.com/Encodedweapon
+contact me here : https://www.facebook.com/Script1337/
 
 warning dont forget to turn on noscript in firefox
